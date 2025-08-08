@@ -1,0 +1,308 @@
+{
+    "New Year's Day": {
+        "gifts": "Gifts",
+        "celebration": "Holiday-themed",
+        "party": "Holiday-themed"
+    },
+    "World Braille Day": {
+        "accessibility": "Electronics",
+        "education": "Stationery",
+        "charity": "Miscellaneous"
+    },
+    "Orthodox Christmas": {
+        "gifts": "Gifts",
+        "religion": "Miscellaneous",
+        "celebration": "Holiday-themed"
+    },
+    "International Day of Education": {
+        "education": "Miscellaneous",
+        "learning": "Miscellaneous",
+        "children": "Toys"
+    },
+    "Chinese New Year": {
+        "gifts": "Gifts",
+        "celebration": "Holiday-themed",
+        "food": "Kitchenware"
+    },
+    "Valentine's Day": {
+        "gifts": "Gifts",
+        "romance": "Gifts",
+        "flowers": "Home Decor"
+    },
+    "International Mother Language Day": {
+        "culture": "Home Decor",
+        "language": "Stationery",
+        "family": "Toys"
+    },
+    "World Wildlife Day": {
+        "eco-friendly": "Home Decor",
+        "conservation": "Miscellaneous",
+        "wildlife": "Miscellaneous"
+    },
+    "International Women's Day": {
+        "empowerment": "Miscellaneous",
+        "equality": "Miscellaneous",
+        "feminism": "Miscellaneous"
+    },
+    "Pi Day": {
+        "math": "Miscellaneous",
+        "science": "Miscellaneous",
+        "education": "Miscellaneous"
+    },
+    "St. Patrick's Day": {
+        "celebration": "Holiday-themed",
+        "party": "Miscellaneous",
+        "beer": "Miscellaneous"
+    },
+    "World Water Day": {
+        "eco-friendly": "Home Decor",
+        "conservation": "Miscellaneous",
+        "water": "Kitchenware"
+    },
+    "International Day of Forests": {
+        "eco-friendly": "Home Decor",
+        "conservation": "Miscellaneous",
+        "nature": "Home Decor"
+    },
+    "Earth Hour": {
+        "eco-friendly": "Home Decor",
+        "conservation": "Miscellaneous",
+        "sustainability": "Miscellaneous"
+    },
+    "April Fool's Day": {
+        "humor": "Toys",
+        "pranks": "Toys",
+        "fun": "Toys"
+    },
+    "World Autism Awareness Day": {
+        "awareness": "Miscellaneous",
+        "health": "Miscellaneous",
+        "charity": "Miscellaneous"
+    },
+    "Easter Sunday": {
+        "gifts": "Gifts",
+        "celebration": "Holiday-themed",
+        "religion": "Miscellaneous"
+    },
+    "Earth Day": {
+        "eco-friendly": "Miscellaneous",
+        "conservation": "Miscellaneous",
+        "sustainability": "Miscellaneous"
+    },
+    "World Book Day": {
+        "books": "Stationery",
+        "reading": "Stationery",
+        "education": "Miscellaneous"
+    },
+    "Administrative Professionals' Day": {
+        "gifts": "Gifts",
+        "appreciation": "Gifts",
+        "office": "Miscellaneous"
+    },
+    "Labor Day": {
+        "work": "Miscellaneous",
+        "appreciation": "Gifts",
+        "holiday": "Holiday-themed"
+    },
+    "World Press Freedom Day": {
+        "journalism": "Miscellaneous",
+        "freedom": "Miscellaneous",
+        "media": "Miscellaneous"
+    },
+    "Mother's Day": {
+        "gifts": "Gifts",
+        "family": "Miscellaneous",
+        "celebration": "Holiday-themed"
+    },
+    "International Day of Families": {
+        "family": "Toys",
+        "love": "Gifts",
+        "celebration": "Holiday-themed"
+    },
+    "World Whisky Day": {
+        "alcohol": "Miscellaneous",
+        "celebration": "Gifts",
+        "party": "Miscellaneous"
+    },
+    "World Turtle Day": {
+        "eco-friendly": "Home Decor",
+        "conservation": "Miscellaneous",
+        "wildlife": "Miscellaneous"
+    },
+    "Memorial Day": {
+        "holiday": "Holiday-themed",
+        "remembrance": "Miscellaneous",
+        "patriotism": "Miscellaneous"
+    },
+    "World No Tobacco Day": {
+        "health": "Miscellaneous",
+        "wellness": "Miscellaneous",
+        "awareness": "Miscellaneous"
+    },
+    "World Environment Day": {
+        "eco-friendly": "Home Decor",
+        "conservation": "Miscellaneous",
+        "sustainability": "Miscellaneous"
+    },
+    "Father's Day": {
+        "gifts": "Gifts",
+        "family": "Miscellaneous",
+        "celebration": "Holiday-themed"
+    },
+    "International Day of Yoga": {
+        "health": "Miscellaneous",
+        "wellness": "Miscellaneous",
+        "fitness": "Miscellaneous"
+    },
+    "World Music Day": {
+        "music": "Electronics",
+        "art": "Home Decor",
+        "celebration": "Holiday-themed"
+    },
+    "International Day Against Drug Abuse and Illicit Trafficking": {
+        "health": "Miscellaneous",
+        "awareness": "Miscellaneous",
+        "safety": "Miscellaneous"
+    },
+    "Independence Day (USA)": {
+        "holiday": "Holiday-themed",
+        "patriotism": "Miscellaneous",
+        "celebration": "Gifts"
+    },
+    "Nelson Mandela International Day": {
+        "awareness": "Miscellaneous",
+        "charity": "Miscellaneous",
+        "leadership": "Miscellaneous"
+    },
+    "International Day of Friendship": {
+        "friendship": "Gifts",
+        "love": "Gifts",
+        "celebration": "Holiday-themed"
+    },
+    "International Youth Day": {
+        "youth": "Toys",
+        "education": "Stationery",
+        "empowerment": "Miscellaneous"
+    },
+    "World Humanitarian Day": {
+        "awareness": "Miscellaneous",
+        "charity": "Miscellaneous",
+        "humanity": "Miscellaneous"
+    },
+    "International Day of Charity": {
+        "charity": "Miscellaneous",
+        "philanthropy": "Miscellaneous",
+        "giving": "Gifts"
+    },
+    "Labor Day (USA)": {
+        "work": "Miscellaneous",
+        "appreciation": "Gifts",
+        "holiday": "Holiday-themed"
+    },
+    "International Literacy Day": {},
+    "Global ns Day for South-South Cooperation": {
+        "cooperation": "Miscellaneous",
+        "development": "Electronics",
+        "sustainability": "Miscellaneous"
+    },
+    "International Day for the Total Elimination of Nuclear Weapons": {
+        "peace": "Miscellaneous",
+        "awareness": "Miscellaneous",
+        "safety": "Miscellaneous"
+    },
+    "World Tourism Day": {
+        "travel": "Miscellaneous",
+        "tourism": "Miscellaneous",
+        "leisure": "Miscellaneous"
+    },
+    "International Day of Older Persons": {
+        "ageing": "Miscellaneous",
+        "health": "Miscellaneous",
+        "wellness": "Miscellaneous"
+    },
+    "World Habitat Day": {
+        "housing": "Home Decor",
+        "shelter": "Home Decor",
+        "sustainability": "Miscellaneous"
+    },
+    "World Mental Health Day": {
+        "mental health": "Miscellaneous",
+        "wellness": "Miscellaneous",
+        "awareness": "Miscellaneous"
+    },
+    "International Day of Rural Women": {
+        "empowerment": "Miscellaneous",
+        "rural women": "Miscellaneous",
+        "development": "Miscellaneous"
+    },
+    "Halloween": {
+        "celebration": "Holiday-themed",
+        "costumes": "Toys",
+        "party": "Holiday-themed"
+    },
+    "World Savings Day": {
+        "finance": "Miscellaneous",
+        "savings": "Miscellaneous",
+        "economy": "Miscellaneous"
+    },
+    "All Saints' Day": {
+        "religion": "Miscellaneous",
+        "remembrance": "Miscellaneous",
+        "holiday": "Holiday-themed"
+    },
+    "International Day to End Impunity for Crimes against Journalists": {
+        "journalism": "Miscellaneous",
+        "freedom": "Miscellaneous",
+        "media": "Miscellaneous"
+    },
+    "Diwali": {
+        "gifts": "Gifts",
+        "celebration": "Holiday-themed",
+        "religion": "Miscellaneous"
+    },
+    "World COPD Day": {
+        "health": "Miscellaneous",
+        "awareness": "Miscellaneous",
+        "wellness": "Miscellaneous"
+    },
+    "Universal Children's Day": {
+        "children": "Toys",
+        "education": "Stationery",
+        "empowerment": "Miscellaneous"
+    },
+    "Thanksgiving Day (USA)": {
+        "food": "Kitchenware",
+        "celebration": "Holiday-themed",
+        "gratitude": "Gifts"
+    },
+    "International Day of Persons with Disabilities": {
+        "accessibility": "Electronics",
+        "inclusion": "Miscellaneous",
+        "disability": "Miscellaneous"
+    },
+    "World AIDS Day": {
+        "health": "Miscellaneous",
+        "awareness": "Miscellaneous",
+        "charity": "Miscellaneous"
+    },
+    "International Volunteer Day": {
+        "volunteering": "Miscellaneous",
+        "charity": "Miscellaneous",
+        "giving": "Gifts"
+    },
+    "Human Rights Day": {
+        "human rights": "Miscellaneous",
+        "awareness": "Miscellaneous",
+        "justice": "Miscellaneous"
+    },
+    "Christmas Day": {
+        "gifts": "Gifts",
+        "celebration": "Holiday-themed",
+        "religion": "Miscellaneous"
+    },
+    "New Year's Eve": {
+        "celebration": "Gifts",
+        "party": "Holiday-themed",
+        "reflection": "Miscellaneous"
+    }
+}

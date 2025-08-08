@@ -1,0 +1,569 @@
+[
+    {
+        "name": "New Year's Day",
+        "date": "2025-01-01",
+        "categories": [
+            "gifts",
+            "celebration",
+            "party"
+        ]
+    },
+    {
+        "name": "World Braille Day",
+        "date": "2025-01-04",
+        "categories": [
+            "accessibility",
+            "education",
+            "charity"
+        ]
+    },
+    {
+        "name": "Orthodox Christmas",
+        "date": "2025-01-07",
+        "categories": [
+            "gifts",
+            "religion",
+            "celebration"
+        ]
+    },
+    {
+        "name": "International Day of Education",
+        "date": "2025-01-24",
+        "categories": [
+            "education",
+            "learning",
+            "children"
+        ]
+    },
+    {
+        "name": "Chinese New Year",
+        "date": "2025-02-10",
+        "categories": [
+            "gifts",
+            "celebration",
+            "food"
+        ]
+    },
+    {
+        "name": "Valentine's Day",
+        "date": "2025-02-14",
+        "categories": [
+            "gifts",
+            "romance",
+            "flowers"
+        ]
+    },
+    {
+        "name": "International Mother Language Day",
+        "date": "2025-02-21",
+        "categories": [
+            "culture",
+            "language",
+            "family"
+        ]
+    },
+    {
+        "name": "World Wildlife Day",
+        "date": "2025-03-03",
+        "categories": [
+            "eco-friendly",
+            "conservation",
+            "wildlife"
+        ]
+    },
+    {
+        "name": "International Women's Day",
+        "date": "2025-03-08",
+        "categories": [
+            "empowerment",
+            "equality",
+            "feminism"
+        ]
+    },
+    {
+        "name": "Pi Day",
+        "date": "2025-03-14",
+        "categories": [
+            "math",
+            "science",
+            "education"
+        ]
+    },
+    {
+        "name": "St. Patrick's Day",
+        "date": "2025-03-17",
+        "categories": [
+            "celebration",
+            "party",
+            "beer"
+        ]
+    },
+    {
+        "name": "World Water Day",
+        "date": "2025-03-22",
+        "categories": [
+            "eco-friendly",
+            "conservation",
+            "water"
+        ]
+    },
+    {
+        "name": "International Day of Forests",
+        "date": "2025-03-21",
+        "categories": [
+            "eco-friendly",
+            "conservation",
+            "nature"
+        ]
+    },
+    {
+        "name": "Earth Hour",
+        "date": "2025-03-30",
+        "categories": [
+            "eco-friendly",
+            "conservation",
+            "sustainability"
+        ]
+    },
+    {
+        "name": "April Fool's Day",
+        "date": "2025-04-01",
+        "categories": [
+            "humor",
+            "pranks",
+            "fun"
+        ]
+    },
+    {
+        "name": "World Autism Awareness Day",
+        "date": "2025-04-02",
+        "categories": [
+            "awareness",
+            "health",
+            "charity"
+        ]
+    },
+    {
+        "name": "Easter Sunday",
+        "date": "2025-04-20",
+        "categories": [
+            "gifts",
+            "celebration",
+            "religion"
+        ]
+    },
+    {
+        "name": "Earth Day",
+        "date": "2025-04-22",
+        "categories": [
+            "eco-friendly",
+            "conservation",
+            "sustainability"
+        ]
+    },
+    {
+        "name": "World Book Day",
+        "date": "2025-04-23",
+        "categories": [
+            "books",
+            "reading",
+            "education"
+        ]
+    },
+    {
+        "name": "Administrative Professionals' Day",
+        "date": "2025-04-24",
+        "categories": [
+            "gifts",
+            "appreciation",
+            "office"
+        ]
+    },
+    {
+        "name": "Labor Day",
+        "date": "2025-05-01",
+        "categories": [
+            "work",
+            "appreciation",
+            "holiday"
+        ]
+    },
+    {
+        "name": "World Press Freedom Day",
+        "date": "2025-05-03",
+        "categories": [
+            "journalism",
+            "freedom",
+            "media"
+        ]
+    },
+    {
+        "name": "Mother's Day",
+        "date": "2025-05-12",
+        "categories": [
+            "gifts",
+            "family",
+            "celebration"
+        ]
+    },
+    {
+        "name": "International Day of Families",
+        "date": "2025-05-15",
+        "categories": [
+            "family",
+            "love",
+            "celebration"
+        ]
+    },
+    {
+        "name": "World Whisky Day",
+        "date": "2025-05-17",
+        "categories": [
+            "alcohol",
+            "celebration",
+            "party"
+        ]
+    },
+    {
+        "name": "World Turtle Day",
+        "date": "2025-05-23",
+        "categories": [
+            "eco-friendly",
+            "conservation",
+            "wildlife"
+        ]
+    },
+    {
+        "name": "Memorial Day",
+        "date": "2025-05-27",
+        "categories": [
+            "holiday",
+            "remembrance",
+            "patriotism"
+        ]
+    },
+    {
+        "name": "World No Tobacco Day",
+        "date": "2025-05-31",
+        "categories": [
+            "health",
+            "wellness",
+            "awareness"
+        ]
+    },
+    {
+        "name": "World Environment Day",
+        "date": "2025-06-05",
+        "categories": [
+            "eco-friendly",
+            "conservation",
+            "sustainability"
+        ]
+    },
+    {
+        "name": "Father's Day",
+        "date": "2025-06-16",
+        "categories": [
+            "gifts",
+            "family",
+            "celebration"
+        ]
+    },
+    {
+        "name": "International Day of Yoga",
+        "date": "2025-06-21",
+        "categories": [
+            "health",
+            "wellness",
+            "fitness"
+        ]
+    },
+    {
+        "name": "World Music Day",
+        "date": "2025-06-21",
+        "categories": [
+            "music",
+            "art",
+            "celebration"
+        ]
+    },
+    {
+        "name": "International Day Against Drug Abuse and Illicit Trafficking",
+        "date": "2025-06-26",
+        "categories": [
+            "health",
+            "awareness",
+            "safety"
+        ]
+    },
+    {
+        "name": "Independence Day (USA)",
+        "date": "2025-07-04",
+        "categories": [
+            "holiday",
+            "patriotism",
+            "celebration"
+        ]
+    },
+    {
+        "name": "World Population Day",
+        "date": "2025-07-11",
+        "categories": [
+            "awareness",
+            "health",
+            "population"
+        ]
+    },
+    {
+        "name": "Nelson Mandela International Day",
+        "date": "2025-07-18",
+        "categories": [
+            "awareness",
+            "charity",
+            "leadership"
+        ]
+    },
+    {
+        "name": "International Day of Friendship",
+        "date": "2025-07-30",
+        "categories": [
+            "friendship",
+            "love",
+            "celebration"
+        ]
+    },
+    {
+        "name": "International Youth Day",
+        "date": "2025-08-12",
+        "categories": [
+            "youth",
+            "education",
+            "empowerment"
+        ]
+    },
+    {
+        "name": "World Humanitarian Day",
+        "date": "2025-08-19",
+        "categories": [
+            "awareness",
+            "charity",
+            "humanity"
+        ]
+    },
+    {
+        "name": "International Day of Charity",
+        "date": "2025-09-05",
+        "categories": [
+            "charity",
+            "philanthropy",
+            "giving"
+        ]
+    },
+    {
+        "name": "Labor Day (USA)",
+        "date": "2025-09-02",
+        "categories": [
+            "work",
+            "appreciation",
+            "holiday"
+        ]
+    },
+    {
+        "name": "International Literacy Day",
+        "date": "2025-09-08",
+        "categories": [
+            "education",
+            "literacy",
+            "learning"
+        ]
+    },
+    {
+        "name": "United Nations Day for South-South Cooperation",
+        "date": "2025-09-12",
+        "categories": [
+            "cooperation",
+            "development",
+            "sustainability"
+        ]
+    },
+    {
+        "name": "International Day for the Total Elimination of Nuclear Weapons",
+        "date": "2025-09-26",
+        "categories": [
+            "peace",
+            "awareness",
+            "safety"
+        ]
+    },
+    {
+        "name": "World Tourism Day",
+        "date": "2025-09-27",
+        "categories": [
+            "travel",
+            "tourism",
+            "leisure"
+        ]
+    },
+    {
+        "name": "International Day of Older Persons",
+        "date": "2025-10-01",
+        "categories": [
+            "ageing",
+            "health",
+            "wellness"
+        ]
+    },
+    {
+        "name": "World Habitat Day",
+        "date": "2025-10-07",
+        "categories": [
+            "housing",
+            "shelter",
+            "sustainability"
+        ]
+    },
+    {
+        "name": "World Mental Health Day",
+        "date": "2025-10-10",
+        "categories": [
+            "mental health",
+            "wellness",
+            "awareness"
+        ]
+    },
+    {
+        "name": "International Day of Rural Women",
+        "date": "2025-10-15",
+        "categories": [
+            "empowerment",
+            "rural women",
+            "development"
+        ]
+    },
+    {
+        "name": "Halloween",
+        "date": "2025-10-31",
+        "categories": [
+            "celebration",
+            "costumes",
+            "party"
+        ]
+    },
+    {
+        "name": "World Savings Day",
+        "date": "2025-10-31",
+        "categories": [
+            "finance",
+            "savings",
+            "economy"
+        ]
+    },
+    {
+        "name": "All Saints' Day",
+        "date": "2025-11-01",
+        "categories": [
+            "religion",
+            "remembrance",
+            "holiday"
+        ]
+    },
+    {
+        "name": "International Day to End Impunity for Crimes against Journalists",
+        "date": "2025-11-02",
+        "categories": [
+            "journalism",
+            "freedom",
+            "media"
+        ]
+    },
+    {
+        "name": "Diwali",
+        "date": "2025-11-07",
+        "categories": [
+            "gifts",
+            "celebration",
+            "religion"
+        ]
+    },
+    {
+        "name": "World COPD Day",
+        "date": "2025-11-20",
+        "categories": [
+            "health",
+            "awareness",
+            "wellness"
+        ]
+    },
+    {
+        "name": "Universal Children's Day",
+        "date": "2025-11-20",
+        "categories": [
+            "children",
+            "education",
+            "empowerment"
+        ]
+    },
+    {
+        "name": "Thanksgiving Day (USA)",
+        "date": "2025-11-28",
+        "categories": [
+            "food",
+            "celebration",
+            "gratitude"
+        ]
+    },
+    {
+        "name": "International Day of Persons with Disabilities",
+        "date": "2025-12-03",
+        "categories": [
+            "accessibility",
+            "inclusion",
+            "disability"
+        ]
+    },
+    {
+        "name": "World AIDS Day",
+        "date": "2025-12-01",
+        "categories": [
+            "health",
+            "awareness",
+            "charity"
+        ]
+    },
+    {
+        "name": "International Volunteer Day",
+        "date": "2025-12-05",
+        "categories": [
+            "volunteering",
+            "charity",
+            "giving"
+        ]
+    },
+    {
+        "name": "Human Rights Day",
+        "date": "2025-12-10",
+        "categories": [
+            "human rights",
+            "awareness",
+            "justice"
+        ]
+    },
+    {
+        "name": "Christmas Day",
+        "date": "2025-12-25",
+        "categories": [
+            "gifts",
+            "celebration",
+            "religion"
+        ]
+    },
+    {
+        "name": "New Year's Eve",
+        "date": "2025-12-31",
+        "categories": [
+            "celebration",
+            "party",
+            "reflection"
+        ]
+    }
+]
